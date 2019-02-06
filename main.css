@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html, body{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  background-color: #000;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-magnifier-container {
+  position: relative;
+  width: 600px;
+  height: 400px;
+}
+
+.img-magnifier-circle {
+  position: absolute;
+  border: 1px solid #000;
+  border-radius: 50%;
+  cursor: none;
+  width: 100px;
+  height: 100px;
+}
