@@ -28,7 +28,7 @@ function magnifiering(imgID, zoom) {
     img.addEventListener("mousemove", moveMagnifier);
     glass.addEventListener("touchmove", moveMagnifier);
     img.addEventListener("touchmove", moveMagnifier);
-
+    
 /**
  * moveMagnifier - function is called when mouse moves and is consuming cursor position from getCursorPosition and then is attaching this coordinates to in order to stop circle on photo surface
  * @param {event} e - mousemove or touchmove

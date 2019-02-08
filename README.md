@@ -1,7 +1,8 @@
 # Magnifier-glass
 Magnifier glass usefull tool for photo galeries or e-shops with products galeries
 
-# Tech stack
+Tech stack
+----------
 - HTML5,
 - CSS,
 - Java Script (vanilla)
